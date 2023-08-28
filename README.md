@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Estark-90 ( Python Obfuscated Challenge )<br>🌱 I've been doing python for 1 year<br>⚡ Fun fact I dont like Highschool :((
+🔭 I’m currently working on Estark-90 ( Python Obfuscated Challenge )<br>🌱 I've been doing python for 1 year<br>⚡ Fun fact I dont like Highschool :((<br> 💯 Love Phonk !
 
 
 ## 🌐 Socials:
