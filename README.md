@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 My discord : **The nicest guy on the planet**  aka **zqh#0684**<br>
-My discord server : https://discord.gg/fKzWD9EP3h
+My discord server : https://discord.gg/venus-dev
 # 💻 Programming languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
