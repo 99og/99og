@@ -1,11 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Estark-90 ( Python Obfuscated Challenge )<br>🌱 I've been doing python for 1 year<br>⚡ Fun fact I dont like Highschool :((<br> 💯 Love Phonk !
-
-
-## 🌐 Socials:
-My discord : **The nicest guy on the planet**  aka **zqh#0684**<br>
-My discord server : https://discord.gg/venus-dev
-# 💻 Programming languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="">
+    <img src="https://cdn.discordapp.com/attachments/1102599085216759839/1150484728688955463/original-3c9e61b1385709dc8f153d6af30a16bb.mp4">
+  </a>
+</div>
